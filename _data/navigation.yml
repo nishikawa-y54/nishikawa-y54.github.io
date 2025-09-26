@@ -17,17 +17,10 @@ main:
   - title: "教育活動"
     url: /teaching/    
     
-#  - title: "Portfolio"
- #   url: /portfolio/
-        
-  #- title: "Blog Posts"
-   # url: /year-archive/
     
   - title: "職歴・学歴"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
     
   - title: "Guide"
     url: /markdown/
