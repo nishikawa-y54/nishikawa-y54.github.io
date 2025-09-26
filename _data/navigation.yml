@@ -8,13 +8,13 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "論文"
     url: /publications/
 
-  - title: "Talks"
+  - title: "発表資料"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "教育活動"
     url: /teaching/    
     
   - title: "Portfolio"
@@ -23,7 +23,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "職歴・学歴"
     url: /cv/
     
   # - title: "CV"
