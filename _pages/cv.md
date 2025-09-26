@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,37 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+職歴
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 特任講師, 大阪教育大学, 2025 April - 
+* 特任助教, 高知工科大学, 2024 August - 2025 March
+* 第64次南極地域観測隊, 2022 Nov - 2023 March
+* 助教, 高知工科大学, 2021 Aug - 2024 July
+* 講師, 株式会社 キッズ＆エム, 2019 June - 2021 July
 
-Work experience
+学歴
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 博士課程:パリ大学, 地球環境宇宙物理学専攻 & 東京大学, 大学院理学系研究科, 地球惑星科学専攻(単位取得退学)
+  * 学位論文：全球大気循環モデルを用いた火星常時惑星自由振動の振幅推定と観測可能性の評価
+  * 指導教員：Philippe Lognonné & 栗田敬
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 修士：東京大学, 大学院理学系研究科, 地球惑星科学専攻
+  * 学位論文：火星表面風の影響を考慮した広帯域地震計のシステム設計
+  * 指導教員：栗田敬
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 学士：東京大学, 理学部, 地球惑星物理学科
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* データ解析
+  * Python, MATLAB, ObsPy, TensorFlow, PhaseNet
+  * 信号処理、機械学習による地震波解析
+* 数値シミュレーション
+  * 音響・地震波伝播モデリング, 放物型波動方程式（PE法）
+* 観測機器開発
+  * M5Stack, Arduino, GNSS, 投下型ペネトレータ
+  * インフラサウンドセンサー構築
+* フィールドワーク
+  * 南極観測（JARE 64次隊）、野外実験、火星探査模擬試験
 
 Publications
 ======
