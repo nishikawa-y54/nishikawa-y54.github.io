@@ -24,9 +24,9 @@ repository               : "nishikawa-y54/nishikawa-y54.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "大阪教育大学 環境安全科学部門"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "極限環境地震研究室 / Extreme Environmenta Seismology Laboratory(X-SEIS)"
   location         : "大阪"
   employer         : "大阪教育大学"
   uri              : # URL
