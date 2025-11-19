@@ -1,26 +1,11 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
 main:
-  - title: "論文"
-    url: /publications/
-
-  - title: "発表資料"
-    url: /talks/    
-
-  - title: "教育活動"
-    url: /teaching/    
-
-    
-  - title: "職歴・学歴"
-    url: /cv/
-    
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "ホーム"
+    url: "/"
+  - title: "メンバー"
+    url: "/people/"
+  - title: "研究内容"
+    url: "/research/"
+  - title: "研究成果"
+    url: "/publications/"
+  - title: "お問い合わせ"
+    url: "/contact/"
