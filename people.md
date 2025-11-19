@@ -6,7 +6,9 @@ permalink: /people/
 
 # メンバー
 
-![西川泰弘](/images/nishikawa_red.jpg){: style="width:220px;border-radius:8px;margin-bottom:1rem;" }
+<img src="/images/nishikawa_red.jpg" 
+     alt="西川泰弘" 
+     style="width:220px;border-radius:8px;margin-bottom:1rem;">
 
 ## 西川 泰弘（Yasuhiro Nishikawa）
 
