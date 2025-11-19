@@ -15,6 +15,9 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
        style="width:100%; height:auto; transform:translateY(-20%);">
 </div>
 
+<img src="/images/logo_trans.png" style="height:160px; display:block; margin:0 auto 20px;">
+
+
 <div style="padding:1.8rem 1.8rem 1.4rem;border-radius:12px;background:#f5f7fb;border:1px solid #dde2f0;margin-bottom:2rem;">
   <h2 style="margin-top:0;">ようこそ、極限環境地震学研究室（X-SEIS）へ</h2>
   <p>
