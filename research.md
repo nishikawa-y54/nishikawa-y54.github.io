@@ -16,7 +16,7 @@ permalink: /research/
 - InSight 探査機の地震・気圧データ解析
 - 火星ペネトレータ研究
 - 大気結合波・自由振動の数値シミュレーション
-- Dragonfly ミッションに向けた観測戦略
+- NASA タイタン観測計画 Dragonfly ミッションに向けた観測戦略
 
 ---
 
@@ -50,7 +50,7 @@ permalink: /research/
 <img src="/images/osiris_rex.JPG" style="width:100%; border-radius:10px; margin:1rem 0;">
 
 再突入時の衝撃波をインフラサウンドで捉え、軌道推定などに利用。
-- Hayabusa2・OSIRIS-REx の衝撃波観測
+- Hayabusa2・OSIRIS-REx 大気圏再突入の衝撃波観測
 - 到来時刻・振幅解析
 - 軌道の三次元再構成
 - 次世代ミッションの観測設計
