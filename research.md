@@ -10,7 +10,7 @@ permalink: /research/
 
 ## 1. 惑星地震学・惑星環境
 
-<img src="/images/mars. JPG" style="width:100%; border-radius:10px; margin:1rem 0;">
+<img src="/images/mars.JPG" style="width:100%; border-radius:10px; margin:1rem 0;">
 
 火星・月・氷衛星などの内部構造や大気構造を、地震・大気振動から推定する。
 - InSight 探査機の地震・気圧データ解析
