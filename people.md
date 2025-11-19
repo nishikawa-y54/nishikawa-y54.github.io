@@ -4,45 +4,70 @@ title: メンバー
 permalink: /people/
 ---
 
-## 教員 / Faculty
+# メンバー
 
-### 西川 泰弘（Yasuhiro Nishikawa）
+<div style="display:flex;flex-wrap:wrap;gap:1.5rem;align-items:flex-start;margin-top:1.5rem;">
 
-大阪教育大学 理数情報教育系・環境安全科学コース 特任講師  
-惑星地震学 / インフラサウンド / 南極氷震
+  <!-- PI / 西川先生 -->
+  <div style="flex:1 1 260px;max-width:360px;border:1px solid #e0e4ef;border-radius:12px;padding:1.2rem;background:#fafbff;">
+    <div style="text-align:center;">
+      <img src="/images/nishikawa_red.jpg" alt="西川泰弘" style="width:160px;height:160px;object-fit:cover;border-radius:50%;margin-bottom:0.8rem;">
+      <h2 style="margin:0 0 0.3rem;">西川 泰弘（Yasuhiro Nishikawa）</h2>
+      <p style="margin:0.2rem 0 0.6rem;font-size:0.95rem;color:#555;">
+        大阪教育大学 理数情報教育系 環境安全科学コース<br>
+        極限環境地震学研究室（X-SEIS） 主宰
+      </p>
+    </div>
 
-<img src="/images/nishikawa_red.jpg" width="320" style="border-radius: 12px; margin: 1rem 0 1.5rem 0;">
+    <h3 style="margin-top:0.8rem;font-size:1rem;">専門</h3>
+    <ul style="margin-top:0.2rem;padding-left:1.2rem;font-size:0.95rem;">
+      <li>惑星地震学・惑星環境</li>
+      <li>インフラサウンド・大気音響</li>
+      <li>南極氷震・氷河の力学</li>
+      <li>サンプルリターンカプセル再突入の観測と数値シミュレーション</li>
+    </ul>
 
----
+    <h3 style="margin-top:0.8rem;font-size:1rem;">略歴（抜粋）</h3>
+    <ul style="margin-top:0.2rem;padding-left:1.2rem;font-size:0.95rem;">
+      <li>東京大学 理学部 地球惑星物理学科 卒業</li>
+      <li>東京大学大学院 理学系研究科 地球惑星科学専攻 博士（理学）</li>
+      <li>高知工科大学 助教・講師を経て現職</li>
+      <li>JAXA 惑星探査ミッション／南極地域観測隊 等に参加</li>
+    </ul>
 
-### 研究分野 / Research Interests
+    <h3 style="margin-top:0.8rem;font-size:1rem;">キーワード</h3>
+    <p style="margin-top:0.2rem;font-size:0.95rem;">
+      InSight・Dragonfly・火星ペネトレータ、南極観測、インフラサウンドアレイ、  
+      再突入カプセル（Hayabusa2・OSIRIS-REx）、PE法による音波伝播シミュレーション など
+    </p>
 
-- 惑星地震学（火星・タイタン・氷衛星など）
-- インフラサウンドによる再突入カプセル・爆発・火山噴火の観測
-- 南極氷震・氷床変動の観測と自動検出（PhaseNet など）
-- 大気音響伝播（PE法）と大気構造の推定
-- 極限環境を利用した惑星探査アナログ研究
+    <h3 style="margin-top:0.8rem;font-size:1rem;">リンク</h3>
+    <ul style="margin-top:0.2rem;padding-left:1.2rem;font-size:0.95rem;">
+      <li>GitHub: <a href="https://github.com/nishikawa-y54" target="_blank">nishikawa-y54</a></li>
+      <!--
+      <li>Google Scholar: …（後でURLを追加）</li>
+      <li>ORCID: …（後でURLを追加）</li>
+      -->
+    </ul>
+  </div>
 
----
+  <!-- 右側：学生・スタッフ一覧（今はプレースホルダ） -->
+  <div style="flex:1 1 260px;min-width:260px;">
+    <div style="border:1px solid #e0e4ef;border-radius:12px;padding:1.2rem;margin-bottom:1rem;">
+      <h2 style="margin-top:0;">学生・共同研究者</h2>
+      <p style="font-size:0.96rem;">
+        学生・ポスドク・共同研究者の情報は、準備ができ次第順次追加していきます。
+        研究室への参加・進学に興味のある方は、<a href="/contact/">お問い合わせ</a> からご連絡ください。
+      </p>
+    </div>
 
-### メッセージ / Message to Students
+    <!-- ここに学生を追加していくテンプレート（必要になったらコメント解除） -->
+    <!--
+    <div style="border:1px solid #e0e4ef;border-radius:10px;padding:0.9rem 1.1rem;margin-bottom:0.9rem;">
+      <b>西 ◯ ◯（氏名）</b><br>
+      博士前期課程〇年／研究テーマ：火星地震と大気ゆらぎの関係
+    </div>
+    -->
+  </div>
 
-極低温・強風・薄い大気・異なる重力など、  
-「普通とはちょっと違う環境」で起こる現象を、観測とシミュレーションで読み解くのがこの研究室のテーマです。
-
-南極や惑星探査、音・地震・大気などに興味があれば、  
-専門は問いません。物理・地学・情報・工学・教育、どのバックグラウンドでも歓迎します。  
-一緒に「極限環境の物理」を探求してみませんか。
-
----
-
-## 学生 / Students
-
-- 学部生・大学院生ともに募集中です。
-- 卒業研究・修士研究として、以下のようなテーマを用意しています：
-  - 火星・タイタンの地震・大気環境の数値シミュレーション
-  - 南極氷震カタログの作成とクラスタリング解析
-  - インフラサウンドセンサーを用いた野外観測・教材開発
-  - 再突入カプセルや火球の音響観測データ解析
-
-興味のある方は、メールまたは [お問い合わせ](/contact/) ページからご連絡ください。
+</
