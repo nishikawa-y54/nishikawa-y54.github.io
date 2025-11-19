@@ -9,12 +9,12 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
 <div style="padding:1.8rem 1.8rem 1.4rem;border-radius:12px;background:#f5f7fb;border:1px solid #dde2f0;margin-bottom:2rem;">
   <h2 style="margin-top:0;">ようこそ、極限環境地震学研究室（X-SEIS）へ</h2>
   <p>
-    当研究室では、惑星探査・南極観測・大気音響・氷震・サンプルリターンカプセル再突入など、
-    「極限環境」で起こる現象を対象に、地震計・気圧計・数値シミュレーションを組み合わせて研究しています。
+    当研究室では、惑星探査・南極観測・インフラサウンド・大気音響・氷震・サンプルリターンカプセル再突入など、
+    「極限環境」で起こる現象を対象に、地震計・気圧計（インフラサウンドセンサー）・数値シミュレーションを組み合わせて研究しています。
   </p>
   <p>
     地球の極域から火星・タイタンまで、<b>観測 × 解析 × シミュレーション</b>を通じて、
-    極限環境の物理を理解し、災害監視や惑星探査ミッションに貢献することを目指します。
+    極限環境の物理を理解し、災害監視や防災、惑星探査ミッション、地球の未来に貢献することを目指します。
   </p>
   <p style="margin-top:1rem;">
     <a href="/people/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;background:#1f4b99;color:#fff;text-decoration:none;margin-right:0.5rem;">メンバー</a>
@@ -44,7 +44,7 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
 
   <div style="border-radius:10px;border:1px solid #e0e4ef;padding:1rem 1.2rem;margin-bottom:0.8rem;">
   <b>大気音響伝播と遠隔災害監視</b><br>
-  爆発・火山噴火・遠方コンサート音などのインフラサウンド伝播と、大気構造の推定。
+  爆発・火山噴火・遠方コンサート音などの音響・インフラサウンド伝播と、大気構造の推定。
   </div>
 
   </div>
