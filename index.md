@@ -12,7 +12,7 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
   border-radius:12px;
   margin-bottom:1.5rem;
 ">
-  <img src="/images/rund.jpg"
+  <img src="/images/rund.png"
        alt="地球で一番火星に近い場所、南極ルンドボークスヘッタ"
        style="width:100%;height:auto;">
 </div>
