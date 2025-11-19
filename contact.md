@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Contact
+title: お問い合わせ
 permalink: /contact/
 ---
 
-## Contact
+## 連絡先
 
-**Yasuhiro Nishikawa**  
-Osaka Kyoiku University  
-Environment & Safety Sciences Course  
-Extreme Environment Seismology Laboratory
+**西川 泰弘（にしかわ やすひろ）**  
+大阪教育大学 理数情報教育系 環境安全科学コース  
+極限環境地震学研究室（X-SEIS）
 
-**Email:** nishikawa@cc.osaka-kyoiku.ac.jp  
+**メール**: nishikawa@cc.osaka-kyoiku.ac.jp  
 
-**Address:**  
+**住所**:  
 〒582-8582  
 大阪府柏原市旭ヶ丘4-698-1  
 大阪教育大学 柏原キャンパス
