@@ -1,7 +1,7 @@
 
 ---
 title: "【登壇】CCBT：SOUND ATLAS vol.1 に参加します"
-date: 2025-01-20
+date: 2025-01-13
 categories: [news]
 ---
 
