@@ -1,0 +1,27 @@
+title: "Extreme Environment Seismology Laboratory"
+description: "大阪教育大学｜極限環境地震学研究室"
+url: "https://nishikawa-y54.github.io"
+baseurl: ""
+
+markdown: kramdown
+theme: academicpages
+
+# ナビゲーション
+collections:
+  publications:
+    output: false
+  teaching:
+    output: false
+  talks:
+    output: false
+  posts:
+    output: false
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+
+paginate: 5
+paginate_path: "/page:num/"
