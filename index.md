@@ -6,13 +6,13 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
 
 <div style="
   width:100%;
-  height:300px;
+  height:280px;        /* ← スマホに最適化した高さ */
   overflow:hidden;
   border-radius:10px;
   margin-bottom:20px;
 ">
-  <img src="/images/header.jpg" 
-       style="width:100%; height:auto; transform:translateY(-20%);">
+  <img src="/images/header.jpg"
+       style="width:100%; height:auto; margin-top:-120px;">
 </div>
 
 <img src="/images/logo_trans.png" style="height:160px; display:block; margin:0 auto 20px;">
