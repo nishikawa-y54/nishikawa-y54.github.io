@@ -4,19 +4,25 @@ title: "極限環境地震学研究室"
 subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
 ---
 
+<!-- 上の横長写真（高さをほどほどに固定） -->
 <div style="
   width:100%;
-  height:280px;        /* ← スマホに最適化した高さ */
+  max-height:320px;
   overflow:hidden;
-  border-radius:10px;
-  margin-bottom:20px;
+  border-radius:12px;
+  margin-bottom:1.5rem;
 ">
   <img src="/images/header.jpg"
-       style="width:100%; height:auto; margin-top:-120px;">
+       alt="南極観測の様子"
+       style="width:100%;height:auto;">
 </div>
 
-<img src="/images/logo_trans.png" style="height:160px; display:block; margin:0 auto 20px;">
-
+<!-- 研究室ロゴ（真ん中に小さめ） -->
+<div style="text-align:center;margin-bottom:1.5rem;">
+  <img src="/images/logo.png"
+       alt="極限環境地震学研究室 X-SEIS Lab"
+       style="height:120px;">
+</div>
 
 <div style="padding:1.8rem 1.8rem 1.4rem;border-radius:12px;background:#f5f7fb;border:1px solid #dde2f0;margin-bottom:2rem;">
   <h2 style="margin-top:0;">ようこそ、極限環境地震学研究室（X-SEIS Lab）へ</h2>
