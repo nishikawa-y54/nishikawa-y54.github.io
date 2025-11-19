@@ -3,7 +3,9 @@ layout: home
 title: "極限環境地震学研究室"
 subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
 ---
+
 <img src="/images/header.jpg" style="width:100%; border-radius:10px; margin-bottom:20px;">
+
 <div style="padding:1.8rem 1.8rem 1.4rem;border-radius:12px;background:#f5f7fb;border:1px solid #dde2f0;margin-bottom:2rem;">
   <h2 style="margin-top:0;">ようこそ、極限環境地震学研究室（X-SEIS）へ</h2>
   <p>
@@ -51,7 +53,7 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
     <div style="border-radius:10px;border:1px solid #e0e4ef;padding:1rem 1.2rem;background:#fafbff;">
       <h3 style="margin-top:0;">お知らせ</h3>
       <ul style="padding-left:1.2rem;margin-bottom:0.6rem;">
-        <li><b>2025年4月</b>　研究室Webサイトを公開しました。</li>
+        <li><b>2025年11月</b>　研究室Webサイトを公開しました。</li>
         <!--
         <li><b>2025年◯月</b>　◯◯学会で発表予定。</li>
         -->
