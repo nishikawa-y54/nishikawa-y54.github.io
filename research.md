@@ -10,7 +10,7 @@ permalink: /research/
 
 ## 1. 惑星地震学・惑星環境
 
-<img src="/images/mars.jpg" style="width:100%; border-radius:10px; margin:1rem 0;">
+<img src="/images/mars. JPG" style="width:100%; border-radius:10px; margin:1rem 0;">
 
 火星・月・氷衛星などの内部構造や大気構造を、地震・大気振動から推定する。
 - InSight 探査機の地震・気圧データ解析
@@ -59,7 +59,7 @@ permalink: /research/
 
 ## 5. 観測機器開発と教育
 
-<img src="/images/theme5.jpg" style="width:100%; border-radius:10px; margin:1rem 0;">
+<img src="/images/DPS310.JPG" style="width:100%; border-radius:10px; margin:1rem 0;">
 
 極限環境で動く観測機器の開発と、実習用教材の制作。
 - インフラサウンドセンサー開発
