@@ -12,7 +12,6 @@ categories: [news]
 
 ライブ、パフォーマンス、インスタレーション、トークが交わる本イベントのなかで、**“聞こえない音”とは何か** をともに探ります。
 
-🔗 イベント情報（CCBT）  
-https://ccbt.rekibun.or.jp/events/soundatlas1
+🔗 [イベント情報（CCBT）](https://ccbt.rekibun.or.jp/events/soundatlas1)
 
 興味ある方はぜひお越しください。
