@@ -61,6 +61,7 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
   </p>
 </div>
 
+
 <div style="display:flex;flex-wrap:wrap;gap:1.5rem;margin-bottom:2rem;align-items:flex-start;">
   <div style="flex:2;min-width:260px;">
 
