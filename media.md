@@ -8,36 +8,37 @@ permalink: /media/
 
 研究活動・南極観測・宇宙探査に関する取材・報道・出演歴をまとめています。
 
+---
 
 ## 📺 テレビ・配信
 
 - **2024-11-08｜AT-X「あにめすこ〜ぷ」**  
   *アニメ「宇宙よりも遠い場所」を南極観測隊が見た！*  
-  https://www.youtube.com/watch?v=ZMTDNGSTMko
+  [https://www.youtube.com/watch?v=ZMTDNGSTMko](https://www.youtube.com/watch?v=ZMTDNGSTMko)
 
 - **2024-09-17｜テレ朝NEWS／報道ステーション（TV放送／Web記事）**  
   「『火星の石』万博で展示へ」  
-  https://news.tv-asahi.co.jp/news_politics/articles/000372531.html?display=full
+  [https://news.tv-asahi.co.jp/news_politics/articles/000372531.html?display=full](https://news.tv-asahi.co.jp/news_politics/articles/000372531.html?display=full)
 
 - **2023-02-23｜テレビ朝日「発進！ミライクリエイター」**  
-  「第6弾 南極からミライを変えるスペシャル」に出演
-  https://www.tv-asahi.co.jp/miraicreator/backnumber/0006/
+  「第6弾 南極からミライを変えるスペシャル」に出演  
+  [https://www.tv-asahi.co.jp/miraicreator/backnumber/0006/](https://www.tv-asahi.co.jp/miraicreator/backnumber/0006/)
 
 - **2023-02-04｜国立極地研究所 公式 YouTube**  
   *【極地研公式】夏の昭和基地へようこそ #JARE64*  
-  https://www.youtube.com/watch?v=qcKnZevgVes
+  [https://www.youtube.com/watch?v=qcKnZevgVes](https://www.youtube.com/watch?v=qcKnZevgVes)
 
 ---
 
 ## 📰 新聞（Web＋紙面）
 
 ### ◆ 2025
-- **2025-09-17｜読売新聞（Web＋紙面）**  
-  https://www.yomiuri.co.jp/national/20250926-OYT1T50186/
+- **2025-10-17｜東京新聞（Web＋紙面）**  
+  「野外音楽イベント苦情相次ぐ」  
+  [https://www.tokyo-np.co.jp/article/443074](https://www.tokyo-np.co.jp/article/443074)
 
-- **2025-10-17｜東京新聞（Web＋紙面）  
-  「野外音楽イベント苦情相次ぐ」**  
-  https://www.tokyo-np.co.jp/article/443074
+- **2025-09-17｜読売新聞（Web＋紙面）**  
+  [https://www.yomiuri.co.jp/national/20250926-OYT1T50186/](https://www.yomiuri.co.jp/national/20250926-OYT1T50186/)
 
 ### ◆ 2023  
 - **高知新聞（Web＋紙面）**  
