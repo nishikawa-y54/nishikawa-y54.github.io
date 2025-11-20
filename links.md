@@ -14,8 +14,8 @@ permalink: /links/
 - **大阪教育大学**  
   [https://www.osaka-kyoiku.ac.jp/](https://www.osaka-kyoiku.ac.jp/)
 
-- **大阪教育大学 理数情報教育系（環境安全科学コース）**  
-  [https://www.osaka-kyoiku.ac.jp/](https://osaka-kyoiku.ac.jp/academic/education/edu_collabo/kannkyou.html)
+- **大阪教育大学 環境安全科学コース**  
+  [https://www.osaka-kyoiku.ac.jp/~kankyo/index.html](https://www.osaka-kyoiku.ac.jp/~kankyo/index.html)
 
 ---
 
