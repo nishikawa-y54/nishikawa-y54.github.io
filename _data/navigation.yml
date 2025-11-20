@@ -1,13 +1,21 @@
 main:
   - title: "ホーム"
-    url: "/"
+    url: /
   - title: "メンバー"
-    url: "/people/"
+    url: /people/
   - title: "研究内容"
-    url: "/research/"
+    url: /research/
   - title: "研究成果"
-    url: "/publications/"
+    url: /publications/
+  - title: "サイエンスコミュニケーション（一般向け）"
+    url: /outreach/
+  - title: "出前授業・学校向け"
+    url: /schools/
+  - title: "メディア掲載"
+    url: /media/
+  - title: "リンク"
+    url: /link/
   - title: "NEWS"
     url: /news/
   - title: "お問い合わせ"
-    url: "/contact/"
+    url: /contact/
