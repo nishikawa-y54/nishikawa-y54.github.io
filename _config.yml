@@ -3,5 +3,5 @@ description: "大阪教育大学｜極限環境地震学研究室"
 logo: "/images/logo_trans.png" 
 url: "https://nishikawa-lab.jp"
 baseurl: ""
-
+future: true
 markdown: kramdown
