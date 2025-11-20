@@ -25,7 +25,7 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
 <div style="padding:1.8rem 1.8rem 1.4rem;border-radius:12px;background:#f5f7fb;border:1px solid #dde2f0;margin-bottom:2rem;">
   <h2>ようこそ、極限環境地震学研究室（X-SEIS Lab）へ</h2>
   <p style="color:#333; margin-top:-0.5rem; margin-bottom:1rem;">
-    大阪教育大学　教育学部
+    大阪教育大学 教育学部
     理数情報教育系 環境安全科学部門
   <p>
     当研究室では、データサイエンスをベースに、惑星探査・南極観測・インフラサウンド・大気音響・氷震・サンプルリターンカプセル再突入など、
