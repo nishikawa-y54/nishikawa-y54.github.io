@@ -71,7 +71,7 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
 
   <div style="border-radius:10px;border:1px solid #e0e4ef;padding:1rem 1.2rem;margin-bottom:0.8rem;">
   <b>南極氷震の自動検出と分類</b><br>
-  PhaseNet やクラスタリングを用いた氷震カタログ作成と、潮汐・気候変動との関連解析。
+  機械学習による自動検出やクラスタリングを用いた氷震カタログ作成と、潮汐・気候変動との関連解析。
   </div>
 
   <div style="border-radius:10px;border:1px solid #e0e4ef;padding:1rem 1.2rem;margin-bottom:0.8rem;">
