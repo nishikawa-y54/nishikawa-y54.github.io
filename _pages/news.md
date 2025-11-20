@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News"
+title: "NEWS"
 permalink: /news/
 author_profile: true
 ---
@@ -8,7 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.posts %}
-  {% if post.categories contains "news" %}
-    {% include archive-single.html %}
-  {% endif %}
+  {% include archive-single.html %}
 {% endfor %}
