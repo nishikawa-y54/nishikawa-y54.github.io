@@ -22,7 +22,7 @@ permalink: /links/
 ## 🚀 研究プロジェクト・ミッション
 
 - **NASA InSight 火星探査計画**  
-  https://mars.nasa.gov/insight/
+  [https://mars.nasa.gov/insight/](https://mars.nasa.gov/insight/)
 
 
 ---
@@ -30,10 +30,10 @@ permalink: /links/
 ## 🌍 極地研究
 
 - **国立極地研究所（NIPR）**  
-  https://www.nipr.ac.jp/
+  [https://www.nipr.ac.jp/](https://www.nipr.ac.jp/)
 
-- **南極観測隊（JARE）**  
-  https://www.nipr.ac.jp/jare/
+- **南極観測用ペネトレータの開発と白瀬氷河および周辺域での集中観測**  
+  [https://www.nipr.ac.jp/antarctic/science-plan10/houga02.html](https://www.nipr.ac.jp/antarctic/science-plan10/houga02.html)
 
 ---
 
@@ -47,7 +47,7 @@ permalink: /links/
 ## 🔗 SNS / その他
 
 - **X（旧Twitter） @y_nishika**  
-  https://twitter.com/
+  [https://twitter.com/](https://twitter.com/)
   
 - **Instagram @yasuhiro.nishikawa0815**  
  [ https://www.instagram.com/](https://www.instagram.com)
