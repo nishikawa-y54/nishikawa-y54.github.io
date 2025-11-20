@@ -1,12 +1,6 @@
 ---
-layout: archive
+layout: posts
 title: "NEWS"
 permalink: /news/
-author_profile: true
+author_profile: false
 ---
-
-{% include base_path %}
-
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
