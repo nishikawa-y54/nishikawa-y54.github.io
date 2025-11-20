@@ -2,6 +2,11 @@
 layout: archive
 title: "NEWS"
 permalink: /news/
-author_profile: true   # サイドバーのプロフィールを出したくなければ消してOK
+author_profile: true
 ---
 
+{% include base_path %}
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
