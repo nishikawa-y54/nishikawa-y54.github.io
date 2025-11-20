@@ -64,8 +64,8 @@
   }
 }
 
-/* ==== footer の Sitemap / Feed を非表示にする ==== */
-.page__footer-nav {
-  display: none;
+/* ==== Hide footer Feed link completely ==== */
+.page__footer a[href*="feed"] {
+  display: none !important;
 }
 
