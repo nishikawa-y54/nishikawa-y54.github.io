@@ -41,3 +41,26 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==== X-SEIS Lab custom styles ==== */
+
+/* ホームなどのヒーロー画像を“それっぽく”全面表示 */
+.page__hero,
+.page__hero img,
+.page__hero-image img {
+  width: 100%;
+  height: 60vh;                // 高さ。大きくしたければ 70vh, 小さくなら 50vh など
+  max-height: none;
+  object-fit: cover;           // 画面に合わせてトリミング（ヒーロー画像っぽく）
+  object-position: center 60%; // トリミングの中心位置（下を少し優先して見せたいなら 60% とか）
+  overflow: hidden;
+}
+
+/* スマホでは少し高さを減らす（お好みで） */
+@media (max-width: 768px) {
+  .page__hero,
+  .page__hero img,
+  .page__hero-image img {
+    height: 50vh;
+  }
+}
