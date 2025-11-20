@@ -7,8 +7,6 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
 <!-- 上の横長写真（高さをほどほどに固定） -->
 <div style="
   width:100%;
-  max-height:320px;
-  overflow:hidden;
   border-radius:12px;
   margin-bottom:1.5rem;
 ">
