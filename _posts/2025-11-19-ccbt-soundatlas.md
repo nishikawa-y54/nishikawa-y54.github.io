@@ -1,6 +1,6 @@
 ---
 title: "【登壇】CCBT：SOUND ATLAS vol.1 に参加します"
-date: 2025-11-20          # ← 公開日（NEWS の Published に出る）
+date: 2025-11-19          # ← 公開日（NEWS の Published に出る）
 event_date: 2025-12-13    # ← イベント当日
 categories: [news]
 ---
