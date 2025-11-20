@@ -8,6 +8,23 @@ permalink: /research/
 
 ---
 
+## 📄 研究紹介ポスター（PDF）
+
+<div style="margin:1rem 0;">
+  <a href="/files/poster_nishikawa.pdf"
+     style="display:inline-block;padding:0.6rem 1.4rem;border-radius:999px;
+            background:#1f4b99;color:white;text-decoration:none;font-weight:600;">
+     📘 PDF を開く（研究紹介ポスター）
+  </a>
+</div>
+
+<img src="/images/poster_nishikawa_page1.jpg"
+     alt="研究紹介ポスター"
+     style="width:100%;border-radius:10px;margin:1rem 0;">
+
+
+---
+
 ## 1. 惑星地震学・惑星環境
 
 <img src="/images/mars.JPG" style="width:100%; border-radius:10px; margin:1rem 0;">
