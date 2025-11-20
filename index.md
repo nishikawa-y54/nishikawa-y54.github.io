@@ -39,9 +39,9 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
 
   <a href="/publications/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">研究成果</a>
 
-  <a href="/outreach/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">一般向け</a>
+  <a href="/outreach/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">一般向け講演など</a>
 
-  <a href="/schools/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">学校向け</a>
+  <a href="/schools/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">学校向け出前授業など</a>
 
   <a href="/media/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">メディア掲載</a>
 
