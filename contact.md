@@ -10,7 +10,7 @@ permalink: /contact/
 大阪教育大学 理数情報教育系 環境安全科学コース  
 極限環境地震学研究室（X-SEIS Lab）
 
-**メール**: nishikawa[at]cc.osaka-kyoiku.ac.jp  
+**メール**: nishikawa-y54[at]cc.osaka-kyoiku.ac.jp  
 
 **住所**:  
 〒582-8582  
