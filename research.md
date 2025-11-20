@@ -18,7 +18,7 @@ permalink: /research/
   </a>
 </div>
 
-<img src="/images/poster_nishikawa_page1.jpg"
+<img src="/images/poster_nishikawa.jpg"
      alt="研究紹介ポスター"
      style="width:100%;border-radius:10px;margin:1rem 0;">
 
