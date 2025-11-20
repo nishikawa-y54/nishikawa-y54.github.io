@@ -22,6 +22,7 @@ permalink: /media/
 
 - **2023-02-23｜テレビ朝日「発進！ミライクリエイター」**  
   「第6弾 南極からミライを変えるスペシャル」に出演
+  https://www.tv-asahi.co.jp/miraicreator/backnumber/0006/
 
 - **2023-02-04｜国立極地研究所 公式 YouTube**  
   *【極地研公式】夏の昭和基地へようこそ #JARE64*  
