@@ -18,7 +18,6 @@ permalink: /media/
 
 - **2024-09-17｜テレ朝NEWS／報道ステーション（TV放送／Web記事）**  
   「『火星の石』万博で展示へ」  
-  [https://news.tv-asahi.co.jp/news_politics/articles/000372531.html?display=full](https://news.tv-asahi.co.jp/news_politics/articles/000372531.html?display=full)
 
 - **2023-02-23｜テレビ朝日「発進！ミライクリエイター」**  
   「第6弾 南極からミライを変えるスペシャル」に出演  
