@@ -32,10 +32,26 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
     地球の極域から火星・タイタンまで、<b>観測 × 解析 × シミュレーション</b>を通じて、
     極限環境の物理を理解し、災害監視や防災、惑星探査ミッション、地球の未来に貢献することを目指します。
   </p>
-  <p style="margin-top:1rem;">
-    <a href="/people/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;background:#1f4b99;color:#fff;text-decoration:none;margin-right:0.5rem;">メンバー</a>
-    <a href="/research/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;">研究内容</a>
-  </p>
+<p style="margin-top:1rem;">
+  <a href="/people/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;background:#1f4b99;color:#fff;text-decoration:none;margin-right:0.5rem;">メンバー</a>
+
+  <a href="/research/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">研究内容</a>
+
+  <a href="/publications/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">研究成果</a>
+
+  <a href="/outreach/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">一般向け</a>
+
+  <a href="/schools/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">学校向け</a>
+
+  <a href="/media/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">メディア掲載</a>
+
+  <a href="/links/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">リンク</a>
+
+  <a href="/news/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin-right:0.5rem;">NEWS</a>
+
+  <a href="/contact/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;">お問い合わせ</a>
+</p>
+
 </div>
 
 <div style="display:flex;flex-wrap:wrap;gap:1.5rem;margin-bottom:2rem;align-items:flex-start;">
