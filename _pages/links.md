@@ -52,7 +52,7 @@ permalink: /links/
   https://twitter.com/
   
 - **Instagram @yasuhiro.nishikawa0815**  
- [ https://twitter.com/](https://www.instagram.com)
+ [ https://www.instagram.com/](https://www.instagram.com)
 
 
 ---
