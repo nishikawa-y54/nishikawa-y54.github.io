@@ -63,6 +63,11 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学コース"
   爆発・火山噴火・遠方コンサート音などの音響・インフラサウンド伝播と、大気構造の推定。
   </div>
 
+  <div style="border-radius:10px;border:1px solid #e0e4ef;padding:1rem 1.2rem;margin-bottom:0.8rem;">
+  <b>サイエンスコミュニケーション</b><br>
+  宇宙、惑星、南極、音、インフラサウンド、防災などに関する講演会、出前授業、イベント登壇など。
+  </div>
+
   </div>
 
   <div style="flex:1;min-width:220px;">
