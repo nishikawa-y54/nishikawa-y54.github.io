@@ -4,19 +4,6 @@ title: "極限環境地震学研究室"
 subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
 ---
 
-<style>
-  body {
-    background-color: #ffffff !important;
-    color: #111111 !important;
-  }
-  a { color: #0044cc; }
-  /* 文章の幅制限（中央寄せ） */
-  .container {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 0 1rem;
-  }
-</style>
 
 <div class="container">
 
