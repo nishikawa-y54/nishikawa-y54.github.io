@@ -4,6 +4,17 @@ title: "極限環境地震学研究室"
 subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
 ---
 
+<style>
+  /* とりあえず白背景＋黒文字を強制 */
+  body {
+    background-color: #ffffff !important;
+    color: #111111 !important;
+  }
+  a {
+    color: #0044cc;
+  }
+</style>
+
 <!-- 上の横長写真（高さをほどほどに固定） -->
 <div style="
   width:100%;
