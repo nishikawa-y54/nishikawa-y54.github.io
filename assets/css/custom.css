@@ -31,3 +31,12 @@ body {
     padding: 0 1rem 2rem;
   }
 }
+/* 見出しリンクアイコンを消す（? マークの原因） */
+h1 a.header-link,
+h2 a.header-link,
+h3 a.header-link,
+h4 a.header-link,
+h5 a.header-link,
+h6 a.header-link {
+  display: none !important;
+}
