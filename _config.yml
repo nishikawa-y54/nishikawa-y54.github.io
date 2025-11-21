@@ -8,6 +8,3 @@ markdown: kramdown
 theme: minima   # 何かテーマを使ってる前提
 plugins:
   - jekyll-feed
-kramdown:
-  toc_levels: 1..6
-  auto_ids: false
