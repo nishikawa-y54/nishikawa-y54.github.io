@@ -1,0 +1,15 @@
+/* 全ページの本文幅を制限する */
+.page-content, .post-content, body {
+  max-width: 900px;       /* 読みやすい幅：700〜900pxが一般的 */
+  margin: 0 auto !important; /* 中央寄せ */
+  padding: 1rem;
+  line-height: 1.8;
+}
+
+/* スマホは全幅でOK */
+@media (max-width: 768px) {
+  .page-content, .post-content, body {
+    max-width: 100% !important;
+    padding: 1rem;
+  }
+}
