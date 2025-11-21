@@ -4,10 +4,6 @@ title: 研究内容
 permalink: /research/
 ---
 
-# 研究内容
-
----
-
 ## 📄 研究紹介ポスター（PDF）
 
 <div style="margin:1rem 0;">
