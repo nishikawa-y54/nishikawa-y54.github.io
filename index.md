@@ -15,6 +15,9 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
   }
 </style>
 
+<!-- ここから全部を中央寄せ＋幅制限する箱に入れる -->
+<div style="max-width: 900px; margin: 0 auto; padding: 0 1rem;">
+
 <!-- 上の横長写真（高さをほどほどに固定） -->
 <div style="
   width:100%;
@@ -25,6 +28,7 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
        alt="地球で一番火星に近い場所、南極ルンドボークスヘッタ"
        style="width:100%;height:auto;">
 </div>
+
 
 <!-- 研究室ロゴ（真ん中に小さめ） -->
 <div style="text-align:center;margin-bottom:1.5rem;">
@@ -112,4 +116,5 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
       </p>
     </div>
   </div>
+</div>
 </div>
