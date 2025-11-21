@@ -5,28 +5,26 @@ body {
   line-height: 1.8;
 }
 
-/* トップページ＋通常ページ共通の横幅制限 */
-.home-wrap,
+/* 全ページ共通：ページコンテンツの最大幅を統一 */
 .page-content,
 .post-content {
-  max-width: 900px;      /* 読みやすい幅 */
-  margin: 0 auto;        /* 画面中央に寄せる */
-  padding: 0 1rem 2rem;  /* 左右＆下に少し余白 */
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
 }
 
-/* 記事・ページ内の画像サイズをいい感じに */
+/* 記事内の画像を全て縮めて中央寄せ */
 .page-content img,
 .post-content img {
-  max-width: 100%;       /* 枠からはみ出さない */
+  max-width: 100%;
   height: auto;
   display: block;
-  margin: 1.2rem auto;   /* 上下余白＋中央寄せ */
-  border-radius: 10px;   /* お好みで角丸 */
+  margin: 1.2rem auto;
+  border-radius: 10px;
 }
 
-/* スマホはほぼ全幅でOK */
+/* スマホ */
 @media (max-width: 768px) {
-  .home-wrap,
   .page-content,
   .post-content {
     max-width: 100%;
