@@ -5,38 +5,31 @@ body {
   line-height: 1.8;
 }
 
-/* 全ページ共通：ページコンテンツの最大幅を統一 */
+/* 共通の「本文コンテナ」：幅を制限して中央寄せ（home でも page でも使える） */
+.home-wrap,
 .page-content,
 .post-content {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 1rem 2rem;
+  max-width: 900px;      /* 読みやすい幅 */
+  margin: 0 auto;        /* 画面中央に寄せる */
+  padding: 0 1rem 2rem;  /* 左右＆下に余白 */
 }
 
-/* 記事内の画像を全て縮めて中央寄せ */
+/* 記事内の画像を全部、コンテナ内に収めて中央寄せ */
 .page-content img,
 .post-content img {
-  max-width: 100%;
+  max-width: 100%;     /* コンテナより大きくならない */
   height: auto;
   display: block;
-  margin: 1.2rem auto;
-  border-radius: 10px;
+  margin: 1.2rem auto; /* 上下余白＋中央寄せ */
+  border-radius: 10px; /* 丸み（お好みで） */
 }
 
-/* スマホ */
+/* スマホはほぼ全幅でOK */
 @media (max-width: 768px) {
+  .home-wrap,
   .page-content,
   .post-content {
     max-width: 100%;
     padding: 0 1rem 2rem;
   }
-}
-/* 見出しリンクアイコンを消す（? マークの原因） */
-h1 a.header-link,
-h2 a.header-link,
-h3 a.header-link,
-h4 a.header-link,
-h5 a.header-link,
-h6 a.header-link {
-  display: none !important;
 }
