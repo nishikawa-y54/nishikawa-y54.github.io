@@ -4,8 +4,7 @@ title: "極限環境地震学研究室"
 subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
 ---
 
-<!-- ここから中身。幅を max 900px に制限して中央寄せ -->
-<div style="max-width:900px; margin:0 auto; padding:0 1rem 2rem;">
+<div class="home-wrap">
 
   <!-- 上の横長写真 -->
   <div style="width:100%; border-radius:12px; margin-bottom:1.5rem; overflow:hidden;">
@@ -22,11 +21,12 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
   </div>
 
   <!-- メイン紹介ボックス -->
-  <div style="padding:1.8rem 1.8rem 1.4rem;
-              border-radius:12px;
-              background:#f5f7fb;
-              border:1px solid #dde2f0;
-              margin-bottom:2rem;">
+  <div style="
+        padding:1.8rem 1.8rem 1.4rem;
+        border-radius:12px;
+        background:#f5f7fb;
+        border:1px solid #dde2f0;
+        margin-bottom:2rem;">
 
     <h2 style="margin-top:0;">ようこそ、極限環境地震学研究室（X-SEIS Lab）へ</h2>
 
@@ -46,16 +46,17 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
     </p>
 
     <p style="margin-top:1rem;">
-      <a href="/people/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;background:#1f4b99;color:#fff;text-decoration:none;margin:0 0.4rem 0.4rem 0;">メンバー</a>
-      <a href="/research/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">研究内容</a>
-      <a href="/publications/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">研究成果</a>
-      <a href="/outreach/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">一般向け講演など</a>
-      <a href="/schools/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">学校向け出前授業など</a>
-      <a href="/media/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">メディア掲載</a>
-      <a href="/links/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">リンク</a>
-      <a href="/news/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">NEWS</a>
-      <a href="/contact/" style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">お問い合わせ</a>
+      <a href="/people/"        style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;background:#1f4b99;color:#fff;text-decoration:none;margin:0 0.4rem 0.4rem 0;">メンバー</a>
+      <a href="/research/"      style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">研究内容</a>
+      <a href="/publications/"  style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">研究成果</a>
+      <a href="/outreach/"      style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">一般向け講演など</a>
+      <a href="/schools/"       style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">学校向け出前授業など</a>
+      <a href="/media/"         style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">メディア掲載</a>
+      <a href="/links/"         style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">リンク</a>
+      <a href="/news/"          style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">NEWS</a>
+      <a href="/contact/"       style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">お問い合わせ</a>
     </p>
+
   </div>
 
   <!-- 下の2カラム -->
@@ -97,9 +98,6 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
         <h3 style="margin-top:0;">お知らせ</h3>
         <ul style="padding-left:1.2rem;margin-bottom:0.6rem;">
           <li><b>2025年11月</b>　研究室Webサイトを公開しました。</li>
-          <!--
-          <li><b>2025年◯月</b>　◯◯学会で発表予定。</li>
-          -->
         </ul>
         <p style="font-size:0.9rem;color:#666;margin-top:0.8rem;">
           学生・共同研究者も随時歓迎しています。<br>
@@ -110,4 +108,4 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
 
   </div>
 
-</div>
+</div> <!-- /.home-wrap -->
