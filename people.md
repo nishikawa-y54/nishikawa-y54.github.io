@@ -4,8 +4,6 @@ title: メンバー
 permalink: /people/
 ---
 
-# メンバー
-
 <img src="/images/nishikawa_red.jpg" 
      alt="西川泰弘" 
      style="width:220px;border-radius:8px;margin-bottom:1rem;">
