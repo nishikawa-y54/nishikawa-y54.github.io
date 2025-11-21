@@ -6,7 +6,7 @@ permalink: /people/
 
 <img src="/images/nishikawa_red.jpg" 
      alt="西川泰弘" 
-     style="width:220px;border-radius:8px;margin-bottom:1rem;">
+     style="width:360px;border-radius:8px;margin-bottom:1rem;">
 
 ## 西川 泰弘（Yasuhiro Nishikawa）
 
