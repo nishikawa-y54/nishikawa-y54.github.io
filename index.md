@@ -4,6 +4,8 @@ title: "極限環境地震学研究室"
 subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 <div class="home-wrap">
 
   <!-- 上の横長写真 -->
