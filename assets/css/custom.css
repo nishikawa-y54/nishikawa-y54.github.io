@@ -11,6 +11,17 @@ body {
   margin: 0 auto;            /* 画面中央に寄せる */
   padding: 0 1rem 2rem;      /* 左右＆下にちょっと余白 */
 }
+  
+  /* 記事内の画像を全部、最大幅900pxの枠内に収めて中央寄せ */
+.post-content img,
+.page-content img {
+  max-width: 100%;     /* 枠より大きくならない */
+  height: auto;
+  display: block;
+  margin: 1.2rem auto; /* 自然な上下余白＋中央寄せ */
+  border-radius: 10px; /* 全画像に丸み（任意） */
+}
+
 
 /* スマホはほぼ全幅でOK */
 @media (max-width: 768px) {
