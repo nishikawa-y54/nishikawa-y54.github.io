@@ -14,11 +14,6 @@ permalink: /research/
   </a>
 </div>
 
-<img src="/images/poster_nishikawa.jpg"
-     alt="研究紹介ポスター"
-     style="width:100%;border-radius:10px;margin:1rem 0;">
-
-
 ---
 
 ## 1. 惑星地震学・惑星環境
