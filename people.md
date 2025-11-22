@@ -4,6 +4,8 @@ title: メンバー
 permalink: /people/
 ---
 
+<div class="center-wrapper">
+
 <img src="/images/nishikawa_red.jpg" 
      alt="西川泰弘" 
      style="width:440px;border-radius:8px;margin-bottom:1rem;">
@@ -66,3 +68,7 @@ PE法による音波伝播シミュレーション、サイエンスコミュニ
 - 三浦 拓翔（B3）
 
 研究室への参加・進学に興味がある方は、[お問い合わせ](/contact/) からご連絡ください。
+
+---
+
+</div>
