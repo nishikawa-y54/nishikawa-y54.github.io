@@ -69,3 +69,19 @@
   display: none !important;
 }
 
+.page__content {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px; /* 好きな幅、Optional */
+}
+
+.page__content p,
+.page__content img,
+.page__content ul,
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
