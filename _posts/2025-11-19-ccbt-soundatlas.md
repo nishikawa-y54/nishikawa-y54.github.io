@@ -1,9 +1,13 @@
 ---
-title: "【登壇】CCBT：SOUND ATLAS vol.1 に参加します"
-date: 2025-11-19          # ← 公開日（NEWS の Published に出る）
-event_date: 2025-12-13    # ← イベント当日
+layout: single
+title: "【登壇】 CCBT: SOUND ATLAS vol.1 に参加します"
+date: 2025-11-19
+event_date: 2025-12-13
 categories: [news]
 ---
+
+（ここから本文）
+
 
 来月 12月13日(土)、**SOUND ATLAS vol.1 極地からの音（CCBT / 青山 / スパイラルホール）** に登壇します。
 
