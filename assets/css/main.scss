@@ -66,50 +66,37 @@
   display: none !important;
 }
 
-/* ==== 本文全体を中央寄せ ==== */
-.page__content {
-  margin-left: auto;
-  margin-right: auto;
+/* ==== ページタイトルを中央揃え ==== */
+.page__title {
+  text-align: center !important;
+}
+
+/* ==== 本文ブロックを中央＋幅制限 ==== */
+.page .page__content {
   max-width: 900px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
 }
 
-/* ==== テキスト要素を中央揃え ==== */
-.page__content p,
-.page__content ul,
-.page__content ol,
-.page__content li,
-.page__content h1,
-.page__content h2,
-.page__content h3,
-.page__content h4,
-.page__content h5,
-.page__content h6 {
-  text-align: center;
+/* ==== 本文中のテキスト要素を中央揃え ==== */
+.page .page__content p,
+.page .page__content ul,
+.page .page__content ol,
+.page .page__content li,
+.page .page__content h1,
+.page .page__content h2,
+.page .page__content h3,
+.page .page__content h4,
+.page .page__content h5,
+.page .page__content h6 {
+  text-align: center !important;
 }
 
-/* ==== 本文の画像を中央寄せ・最大幅設定 ==== */
-.page__content img {
+/* ==== 本文中の画像を中央寄せ・大きさ調整 ==== */
+.page .page__content img {
   display: block;
-  margin: 1rem auto;
-  width: 440px;
+  margin: 1rem auto !important;
   max-width: 100%;
   border-radius: 10px;
 }
-
-/* ==== ページタイトルを中央揃え ==== */
-.page__title {
-  text-align: center;
-}
-
-/* ==== ページ全体を中央寄せにする ==== */
-.page {
-  display: flex;
-  justify-content: center;
-}
-
-/* ==== 内側コンテナも中央寄せに ==== */
-.page__inner {
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
