@@ -44,18 +44,18 @@
 
 /* ==== X-SEIS Lab custom styles ==== */
 
+/* ヒーロー画像（トップの大きい写真） */
 .page__hero,
 .page__hero img,
 .page__hero-image img {
   width: 100%;
-  height: auto;        // 高さ固定をやめる
-  max-height: 90vh;    // 画面よりちょっと小さいくらいまでに制限（お好みで）
-  object-fit: contain; // 画像全体を収める
+  height: auto;
+  max-height: 90vh;
+  object-fit: contain;
   overflow: visible;
 }
 
-
-/* スマホでは少し高さを減らす（お好みで） */
+/* スマホでは高さ調整 */
 @media (max-width: 768px) {
   .page__hero,
   .page__hero img,
@@ -64,28 +64,29 @@
   }
 }
 
-/* ==== Hide footer Feed link completely ==== */
+/* ==== フッターの "feed" を隠す ==== */
 .page__footer a[href*="feed"] {
   display: none !important;
 }
 
+/* ==== 本文全体を中央寄せ ==== */
 .page__content {
   margin-left: auto;
   margin-right: auto;
-  max-width: 900px; /* 好きな幅、Optional */
+  max-width: 900px;
+  text-align: center;   /* ← 全文中央揃え */
 }
 
-.page__content p,
-.page__content img,
-.page__content ul,
-.page__content h1,
-.page__content h2,
-.page__content h3 {
-  margin-left: auto;
-  margin-right: auto;
+/* ==== 本文の画像を中央寄せ・最大幅設定 ==== */
+.page__content img {
+  display: block;
+  margin: 1rem auto;
+  width: 440px;
+  max-width: 100%;
+  border-radius: 10px;
 }
 
-
+/* ==== ページタイトルを中央揃え ==== */
 .page__title {
   text-align: center;
 }
