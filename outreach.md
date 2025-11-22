@@ -9,7 +9,7 @@ permalink: /outreach/
 ## 主な講演・イベント（新しい順）
 
 - **2025-12-13** シビック・クリエイティブ・ベース東京  
-  [SOUND ATLAS vol.1「極地からの音」](/news/ccbt-soundatlas/)  
+  [SOUND ATLAS vol.1「極地からの音」]({% post_url 2025-11-19-ccbt-soundatlas %})  
   （CCBT / 青山 / スパイラルホール）
 
 - **2025-07-17** クラブ広島7月例会  
