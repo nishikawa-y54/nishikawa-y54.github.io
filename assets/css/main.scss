@@ -3,9 +3,6 @@
 
 /*
  * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
 @import
@@ -74,7 +71,20 @@
   margin-left: auto;
   margin-right: auto;
   max-width: 900px;
-  text-align: center;   /* ← 全文中央揃え */
+}
+
+/* ==== テキスト要素を中央揃え ==== */
+.page__content p,
+.page__content ul,
+.page__content ol,
+.page__content li,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  text-align: center;
 }
 
 /* ==== 本文の画像を中央寄せ・最大幅設定 ==== */
