@@ -105,3 +105,21 @@
   height: auto;
   border-radius: 10px;
 }
+
+/* === 全ページの本文を中央揃えする専用ラッパ === */
+.center-wrapper {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.center-wrapper img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 440px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
