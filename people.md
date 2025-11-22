@@ -39,7 +39,7 @@ permalink: /people/
      - "Estimation of the amplitude of the Martian hum from Global circulation models and expected observation challenges"
      - "全球大気循環モデルから見積もった常時火星自由振動の振幅"
 - 朝倉算数道場 講師・教材作成
-- 高知工科大学 助教・講師を経て現職
+- 高知工科大学 助教を経て現職
 - NASA InSight計画, 第64次日本南極地域観測隊 ほか、宇宙・南極関連プロジェクトに参加
 
 ---
