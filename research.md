@@ -4,8 +4,6 @@ title: 研究内容
 permalink: /research/
 ---
 
-<div style="max-width:900px; margin:0 auto; text-align:center;">
-
 ## 📄 研究紹介ポスター（PDF）
 
 <div style="margin:1rem 0;">
@@ -91,5 +89,3 @@ permalink: /research/
 - ペネトレータ・小型ロガーの設計  
 - 高校・大学向け観測教材  
 - フィールド実習の企画  
-
-</div>
