@@ -4,6 +4,8 @@ title: 研究内容
 permalink: /research/
 ---
 
+<div style="max-width:900px; margin:0 auto; text-align:center;">
+
 ## 📄 研究紹介ポスター（PDF）
 
 <div style="margin:1rem 0;">
@@ -62,13 +64,13 @@ permalink: /research/
 
 ---
 
-## 4. サンプルリターンカプセル再突入の観測
+## 4. 流星・サンプルリターンカプセル再突入の観測
 
 <img src="/images/osiris_rex.JPG"
      alt="OSIRIS-REx 衝撃波観測"
      style="width:440px; max-width:100%; border-radius:10px; margin:1rem auto; display:block;">
 
-再突入時の衝撃波をインフラサウンドで捉え、軌道推定などに利用。
+物体の大気圏突入時の衝撃波をインフラサウンドで捉え、軌道推定などに利用。
 
 - Hayabusa2・OSIRIS-REx 大気圏再突入の衝撃波観測  
 - 到来時刻・振幅解析  
@@ -89,3 +91,5 @@ permalink: /research/
 - ペネトレータ・小型ロガーの設計  
 - 高校・大学向け観測教材  
 - フィールド実習の企画  
+
+</div>
