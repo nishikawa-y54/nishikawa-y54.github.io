@@ -4,11 +4,9 @@ title: メンバー
 permalink: /people/
 ---
 
-<div style="max-width:900px; margin:0 auto; text-align:center;">
-
 <img src="/images/nishikawa_red.jpg" 
      alt="西川泰弘" 
-     style="width:440px; max-width:100%; border-radius:8px; margin-bottom:1rem;">
+     style="width:440px;border-radius:8px;margin-bottom:1rem;">
 
 ## 西川 泰弘（Yasuhiro Nishikawa）
 
@@ -37,12 +35,12 @@ permalink: /people/
 
 - 鹿児島私立 ラ・サール高等学校 卒業
 - 東京大学 理学部 地球惑星物理学科 卒業
-- 東京大学大学院 理学系研究科 地球惑星科学専攻 地震研究所 修士（理学）  
-  - "Designing a martian broadband seismometer system under surface wind environment"  
-  - "広帯域火星地震計にとりつける風よけの設計"
-- パリ大学 地球惑星環境科学専攻 パリ地球物理研究所 博士  
-  - "Estimation of the amplitude of the Martian hum from Global circulation models and expected observation challenges"  
-  - "全球大気循環モデルから見積もった常時火星自由振動の振幅"
+- 東京大学大学院 理学系研究科 地球惑星科学専攻 地震研究所 修士（理学）
+     - "Designing a martian broadband seismometer system under surface wind environment"
+     - "広帯域火星地震計にとりつける風よけの設計"
+- パリ大学 地球惑星環境科学専攻 パリ地球物理研究所 博士
+     - "Estimation of the amplitude of the Martian hum from Global circulation models and expected observation challenges"
+     - "全球大気循環モデルから見積もった常時火星自由振動の振幅"
 - 朝倉算数道場 講師・教材作成
 - 高知工科大学 助教・講師を経て現職
 - NASA InSight計画, 第64次日本南極地域観測隊 ほか、宇宙・南極関連プロジェクトに参加
@@ -51,7 +49,7 @@ permalink: /people/
 
 ### 研究キーワード
 
-InSight・Dragonfly・火星ペネトレータ、惑星地震、南極観測、津波、データサイエンス、  
+InSight・Dragonfly・火星ペネトレータ、惑星地震、南極観測、津波、データサイエンス、
 インフラサウンド、再突入カプセル（Hayabusa2・OSIRIS-REx）、  
 PE法による音波伝播シミュレーション、サイエンスコミュニケーションなど
 
@@ -68,5 +66,3 @@ PE法による音波伝播シミュレーション、サイエンスコミュニ
 - 三浦 拓翔（B3）
 
 研究室への参加・進学に興味がある方は、[お問い合わせ](/contact/) からご連絡ください。
-
-</div>
