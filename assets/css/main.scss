@@ -62,30 +62,46 @@
   display: none !important;
 }
 
-/* ==== 強制中央寄せ（layout: page を完全に上書き） ==== */
-.page,
-.page__inner,
-.page__content {
-  max-width: 900px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  text-align: center !important;
+/* ==== X-SEIS Lab custom styles ==== */
+
+/* ヒーロー画像（トップの大きい写真） */
+.page__hero,
+.page__hero img,
+.page__hero-image img {
+  width: 100%;
+  height: auto;
+  max-height: 90vh;
+  object-fit: contain;
+  overflow: visible;
 }
 
-/* テキスト全て中央揃え */
-.page__content * {
-  text-align: center !important;
+/* スマホでは高さ調整 */
+@media (max-width: 768px) {
+  .page__hero,
+  .page__hero img,
+  .page__hero-image img {
+    height: 50vh;
+  }
 }
 
-/* 画像サイズと中央寄せ */
-.page__content img,
-.page img,
-img {
-  display: block !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  max-width: 440px !important;
-  width: 100% !important;
-  height: auto !important;
-  border-radius: 10px !important;
+/* ==== フッターの "feed" を隠す ==== */
+.page__footer a[href*="feed"] {
+  display: none !important;
+}
+
+/* ==== ページ本文の横幅を中央寄せ（テキストは左揃えのまま） ==== */
+.page__inner {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ==== 本文中の画像だけを小さめ＋中央寄せ ==== */
+.page__content img {
+  display: block;
+  margin: 1rem auto;
+  width: 440px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
 }
