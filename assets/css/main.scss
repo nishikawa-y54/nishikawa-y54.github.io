@@ -61,3 +61,31 @@
 .page__footer a[href*="feed"] {
   display: none !important;
 }
+
+/* ==== 強制中央寄せ（layout: page を完全に上書き） ==== */
+.page,
+.page__inner,
+.page__content {
+  max-width: 900px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+}
+
+/* テキスト全て中央揃え */
+.page__content * {
+  text-align: center !important;
+}
+
+/* 画像サイズと中央寄せ */
+.page__content img,
+.page img,
+img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 440px !important;
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 10px !important;
+}
