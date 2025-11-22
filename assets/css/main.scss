@@ -100,3 +100,16 @@
 .page__title {
   text-align: center;
 }
+
+/* ==== ページ全体を中央寄せにする ==== */
+.page {
+  display: flex;
+  justify-content: center;
+}
+
+/* ==== 内側コンテナも中央寄せに ==== */
+.page__inner {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
