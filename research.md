@@ -20,7 +20,7 @@ permalink: /research/
 
 <img src="/images/mars.JPG"
      alt="火星観測"
-     style="width:440px; max-width:100%; border-radius:10px; margin:1rem auto; display:block;">
+     style="width:440px; max-width:100%; border-radius:10px; margin:1rem 0; display:block;">
 
 火星・月・氷衛星などの内部構造や大気構造を、地震・大気振動から推定する。
 
@@ -35,7 +35,7 @@ permalink: /research/
 
 <img src="/images/Unknown-1.png"
      alt="インフラサウンド解析"
-     style="width:440px; max-width:100%; border-radius:10px; margin:1rem auto; display:block;">
+     style="width:440px; max-width:100%; border-radius:10px; margin:1rem 0; display:block;">
 
 可聴域より低い周波数の音（インフラサウンド）で大気中の現象を捕捉する。
 
@@ -51,7 +51,7 @@ permalink: /research/
 
 <img src="/images/antarctic_seis.jpg"
      alt="南極氷震"
-     style="width:440px; max-width:100%; border-radius:10px; margin:1rem auto; display:block;">
+     style="width:440px; max-width:100%; border-radius:10px; margin:1rem 0; display:block;">
 
 南極で発生する氷震を利用し、氷床の運動・崩壊プロセスを調べる。
 
@@ -66,7 +66,7 @@ permalink: /research/
 
 <img src="/images/osiris_rex.JPG"
      alt="OSIRIS-REx 衝撃波観測"
-     style="width:440px; max-width:100%; border-radius:10px; margin:1rem auto; display:block;">
+     style="width:440px; max-width:100%; border-radius:10px; margin:1rem 0; display:block;">
 
 物体の大気圏突入時の衝撃波をインフラサウンドで捉え、軌道推定などに利用。
 
@@ -81,7 +81,7 @@ permalink: /research/
 
 <img src="/images/DPS310.JPG"
      alt="観測機器開発"
-     style="width:440px; max-width:100%; border-radius:10px; margin:1rem auto; display:block;">
+     style="width:440px; max-width:100%; border-radius:10px; margin:1rem 0; display:block;">
 
 極限環境で動く観測機器の開発と、実習用教材の制作。
 
