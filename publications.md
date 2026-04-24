@@ -9,6 +9,14 @@ permalink: /publications/
 ※ 年代降順
 
 ---
+## 2026
+
+★ **Nishikawa, Y.**, Hamama, I., Elbehiri, H. S., Hasumi, Y., Sansom, E. K., Devillepoix, H., ... & Silber, E. A. (2026). Optimizing infrasound observations for sample return capsule re-entry: Insights from OSIRIS-REx and Hayabusa2. Publications of the Astronomical Society of Japan, 78(2), 484-492.
+DOI: https://doi.org/10.1093/pasj/psaf156
+
+◎ **Scamfer, L. T.**, Silber, E. A., Fries, M. D., Vida, D., Šegon, D., Jenniskens, P., **Nishikawa, Y.**., ... & Rector, T. A. (2026). Multi‐sensor trajectory reconstruction of the 24 April 2025 Alaska fireball and implications for planetary defense. Journal of Geophysical Research: Planets, 131(3), e2025JE009440.
+DOI: https://doi.org/10.1029/2025JE009440
+
 
 ## 2025
 
