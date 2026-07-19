@@ -5,18 +5,18 @@ permalink: /gallery/
 author_profile: true
 
 antarctica_gallery:
-  - url: antarctica/cryo_seismogram
-    image_path: antarctica/cryo_seismogram
+  - url: antarctica/cryoseismogram_1.png
+    image_path: antarctica/cryoseismogram_1.png
     alt: "Antarctic fieldwork"
     title: "Antarctic fieldwork"
 
-  - url: antarctica/cryo_seismogram_1
-    image_path: antarctica/cryo_seismogram_1
+  - url: antarctica/cryoseismogram_2.JPG
+    image_path: antarctica/cryoseismogram_2.JPG
     alt: "Langhovde Glacier"
     title: "Langhovde Glacier"
 
-  - url: antarctica/cryo_seismogram_2
-    image_path: antarctica/cryo_seismogram_2
+  - url: antarctica/cryoseismogram_3.png
+    image_path: antarctica/cryoseismogram_3.png
     alt: "Antarctic penetrator"
     title: "Antarctic penetrator"
 ---
