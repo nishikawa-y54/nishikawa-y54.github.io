@@ -5,6 +5,8 @@ main:
     url: /people/
   - title: "研究内容"
     url: /research/
+  - title: "ギャラリー"
+    url: /gallery/
   - title: "研究成果"
     url: /publications/
   - title: "講演など・一般向け"
