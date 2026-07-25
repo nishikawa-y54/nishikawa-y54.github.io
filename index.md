@@ -50,6 +50,7 @@ subtitle: "大阪教育大学 理数情報教育系 環境安全科学部門"
     <p style="margin-top:1rem;">
       <a href="/people/"        style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;background:#1f4b99;color:#fff;text-decoration:none;margin:0 0.4rem 0.4rem 0;">メンバー</a>
       <a href="/research/"      style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">研究内容</a>
+      <a href="/gallery/"       style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">ギャラリー</a>
       <a href="/publications/"  style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">研究成果</a>
       <a href="/outreach/"      style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">一般向け講演など</a>
       <a href="/schools/"       style="display:inline-block;padding:0.5rem 1.2rem;border-radius:999px;border:1px solid #1f4b99;color:#1f4b99;text-decoration:none;margin:0 0.4rem 0.4rem 0;">学校向け出前授業など</a>
