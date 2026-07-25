@@ -7,63 +7,63 @@ author_profile: true
 antarctica_gallery:
   - url: antarctica/cryoseismogram_1.png
     image_path: antarctica/cryoseismogram_1.png
-    alt: "Antarctic fieldwork"
-    title: "Antarctic fieldwork"
+    alt: "cryoseismogram_1"
+    title: "cryoseismogram_1"
 
   - url: antarctica/cryoseismogram_2.JPG
     image_path: antarctica/cryoseismogram_2.JPG
-    alt: "Langhovde Glacier"
-    title: "Langhovde Glacier"
+    alt: "cryoseismogram_2"
+    title: "cryoseismogram_2"
 
   - url: antarctica/cryoseismogram_3.png
     image_path: antarctica/cryoseismogram_3.png
-    alt: "Antarctic penetrator"
-    title: "Antarctic penetrator"
+    alt: "cryoseismogram_3"
+    title: "cryoseismogram_3"
 
   - url: antarctica/drone_1.jpg
     image_path: antarctica/drone_1.jpg
-    alt: "Antarctic fieldwork"
-    title: "Antarctic fieldwork"
+    alt: "drone_1"
+    title: "drone_1"
 
   - url: antarctica/drone_2.JPG
     image_path: antarctica/drone_2.JPG
-    alt: "Langhovde Glacier"
-    title: "Langhovde Glacier"
+    alt: "drone_2"
+    title: "drone_2"
 
   - url: antarctica/penguin_1.JPG
     image_path: antarctica/penguin_1.JPG
-    alt: "Antarctic penetrator"
-    title: "Antarctic penetrator"
+    alt: "penguin_1"
+    title: "penguin_1"
 
   - url: antarctica/snow_vehicle_1.JPG
     image_path: antarctica/snow_vehicle_1.JPG
-    alt: "Antarctic fieldwork"
-    title: "Antarctic fieldwork"
+    alt: "snow_vehicle_1"
+    title: "snow_vehicle_1"
 
   - url: antarctica/snow_vehicle_2.JPG
     image_path: antarctica/snow_vehicle_2.JPG
-    alt: "Langhovde Glacier"
-    title: "Langhovde Glacier"
+    alt: "snow_vehicle_2"
+    title: "snow_vehicle_2"
 
   - url: antarctica/ice_core1.JPG
     image_path: antarctica/ice_core1.JPG
-    alt: "Antarctic penetrator"
-    title: "Antarctic penetrator"
+    alt: "ice_core1"
+    title: "ice_core1"
 
   - url: antarctica/drinking_1.JPG
     image_path: antarctica/drinking_1.JPG
-    alt: "Antarctic fieldwork"
-    title: "Antarctic fieldwork"
+    alt: "drinking_1"
+    title: "drinking_1"
 
   - url: antarctica/hotwater_firework_1.png
     image_path: antarctica/hotwater_firework_1.png
-    alt: "Langhovde Glacier"
-    title: "Langhovde Glacier"
+    alt: "hotwater_firework_1"
+    title: "hotwater_firework_1"
 
   - url: antarctica/yorimoi.JPG
     image_path: antarctica/yorimoi.JPG
-    alt: "Antarctic penetrator"
-    title: "Antarctic penetrator"
+    alt: "yorimoi"
+    title: "yorimoi"
 
 ---
 
