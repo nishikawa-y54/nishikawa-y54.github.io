@@ -30,6 +30,10 @@ DOI: https://doi.org/10.1785/0220250216
 Scientific Reports, 15, 37158.  
 DOI: https://doi.org/10.1038/s41598-025-22494-1
 
+YAMAMOTO, K., YAMAMOTO, M. **Y., NISHIKAWA**, Y., HIRATSUKA, T., SAIKI, K., TANIGUCHI, R., & TANAKA, S. (2026).
+Feasibility of Long-Term Observation Using Penetrators and Structural Design Considerations. Journal of Evolving Space Activities, 4, 280.
+DOI: https://doi.org/10.57350/jesa.280
+
 ---
 
 ## 2024
